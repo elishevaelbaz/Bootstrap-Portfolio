@@ -1,0 +1,13 @@
+
+body{
+	background: url("../images/concrete_seamless.png");
+}
+
+.sidebar{
+  margin-left:45px;
+  text-align: center;
+}
+
+.container{
+	/*background-color:orange;*/
+}
